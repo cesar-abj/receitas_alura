@@ -1,0 +1,1 @@
+ativação da venv caminho( E:\python\aplicacao\venv )\Scripts\Activate.ps1
